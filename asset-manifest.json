@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3f0aa8a4.css",
+    "main.js": "/static/js/main.64f51f57.js",
+    "static/media/Headshot.jpeg": "/static/media/Headshot.88786dc6987aed01e261.jpeg",
+    "static/media/ChargersLogo.png": "/static/media/ChargersLogo.3d4286b5e45c8e8a2822.png",
+    "static/media/TottenhamLogo.png": "/static/media/TottenhamLogo.52980c8c1c1291d139fa.png",
+    "static/media/WarriorsLogo.png": "/static/media/WarriorsLogo.c24ddb22835200cd113b.png",
+    "static/media/GitHubIcon.png": "/static/media/GitHubIcon.ba6295f27219ac24ee2e.png",
+    "static/media/LinkedInIcon.png": "/static/media/LinkedInIcon.a566f176f319a345b340.png",
+    "static/media/EmailIcon.png": "/static/media/EmailIcon.7a64a16ea5f2e7c22989.png",
+    "index.html": "/index.html",
+    "main.3f0aa8a4.css.map": "/static/css/main.3f0aa8a4.css.map",
+    "main.64f51f57.js.map": "/static/js/main.64f51f57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f0aa8a4.css",
+    "static/js/main.64f51f57.js"
+  ]
+}
