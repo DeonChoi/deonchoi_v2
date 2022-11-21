@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3a1deac4.css",
-    "main.js": "/static/js/main.3e8c632d.js",
+    "main.css": "/static/css/main.deb6e60a.css",
+    "main.js": "/static/js/main.da590301.js",
     "static/media/Headshot.jpeg": "/static/media/Headshot.88786dc6987aed01e261.jpeg",
     "static/media/ChargersLogo.png": "/static/media/ChargersLogo.3d4286b5e45c8e8a2822.png",
     "static/media/TottenhamLogo.png": "/static/media/TottenhamLogo.52980c8c1c1291d139fa.png",
@@ -10,11 +10,11 @@
     "static/media/LinkedInIcon.png": "/static/media/LinkedInIcon.a566f176f319a345b340.png",
     "static/media/EmailIcon.png": "/static/media/EmailIcon.7a64a16ea5f2e7c22989.png",
     "index.html": "/index.html",
-    "main.3a1deac4.css.map": "/static/css/main.3a1deac4.css.map",
-    "main.3e8c632d.js.map": "/static/js/main.3e8c632d.js.map"
+    "main.deb6e60a.css.map": "/static/css/main.deb6e60a.css.map",
+    "main.da590301.js.map": "/static/js/main.da590301.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a1deac4.css",
-    "static/js/main.3e8c632d.js"
+    "static/css/main.deb6e60a.css",
+    "static/js/main.da590301.js"
   ]
 }
