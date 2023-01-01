@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0e58764f.css",
-    "main.js": "/static/js/main.613dd64a.js",
+    "main.js": "/static/js/main.53b971e6.js",
     "static/media/Headshot.jpeg": "/static/media/Headshot.88786dc6987aed01e261.jpeg",
     "static/media/ChargersLogo.png": "/static/media/ChargersLogo.3d4286b5e45c8e8a2822.png",
     "static/media/TottenhamLogo.png": "/static/media/TottenhamLogo.52980c8c1c1291d139fa.png",
@@ -12,10 +12,10 @@
     "static/media/EmailIcon.png": "/static/media/EmailIcon.5602f209a428c5dc94c6.png",
     "index.html": "/index.html",
     "main.0e58764f.css.map": "/static/css/main.0e58764f.css.map",
-    "main.613dd64a.js.map": "/static/js/main.613dd64a.js.map"
+    "main.53b971e6.js.map": "/static/js/main.53b971e6.js.map"
   },
   "entrypoints": [
     "static/css/main.0e58764f.css",
-    "static/js/main.613dd64a.js"
+    "static/js/main.53b971e6.js"
   ]
 }
